@@ -21,12 +21,7 @@
     <module>webapp</module>
   </modules>
 
- <distributionManagement>
-        <repository>
-            <id>nexus-site</id>
-            <url>http://central_nexus/server</url>
-        </repository>
-    </distributionManagement>
+ 
 
   <build>
     <plugins>
