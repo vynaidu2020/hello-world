@@ -1,3 +1,3 @@
-<h1> Hello dude, Welcome to Simple DevOps Project with Ansible and Kubernetes!!   </h1>
-<h2> Good morning all!!!</h2>
+<h1> Hello dude, Welcome to Simple DevOps Project with Ansible!!   </h1>
+<h2> Good afternoon all!!!</h2>
 
